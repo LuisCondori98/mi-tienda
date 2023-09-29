@@ -1,0 +1,10 @@
+img {
+  height: 280px;
+}
+
+.boton-carrito {
+  background-color: black;
+  padding: 5px;
+  color: white;
+  border-radius: 10px;
+}
